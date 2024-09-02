@@ -311,6 +311,7 @@ body{
     margin-top: 7.5px;
 
     text-align: center;
+    cursor: pointer;
 }
 
 .social_media_icons_box i{
@@ -488,14 +489,35 @@ body{
     margin-left: 34.5%;
 }
 
-.footer-bottom a{
+/* .footer-bottom a{
     text-decoration: none;
     color: #009432;
-}
+    color: #111713;
+} */
 
-.footer-bottom a:hover{
+/* .footer-bottom a:hover{
+    transition: 0.6s;
+    color: #B53471;
+    text-decoration: underline;
+    text-shadow: 0 0 15px #B53471;
+} */
+
+.One_3301{
+    text-decoration: none;
+    color: #111713;
+}
+.One_3301:hover{
     transition: 0.6s;
     color: #B53471;
     /* text-decoration: underline; */
     text-shadow: 0 0 15px #B53471;
+}
+.Two_3301-2\.o{
+    text-decoration: none;
+    color: #111713;
+}
+.Two_3301-2\.o:hover{
+    transition: .3s; 
+    color: #ddd; 
+    text-shadow: 0 0 11px #ffffff;
 }
